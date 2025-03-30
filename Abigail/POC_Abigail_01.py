@@ -55,7 +55,7 @@ DAYS_TO_RECOVERY = 80           # Number of days it takes to recover
 
 RADIUS_OF_PERSON = 5            # Radius of each person in the simulation
 
-FRAME_RATE = 10                 # use 10-60 to demo program and 1000
+FRAME_RATE = 250                 # use 10-60 to demo program and 1000
                                 # to run full speed
 
 
