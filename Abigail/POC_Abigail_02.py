@@ -47,7 +47,7 @@ for _ in range(NUMBER_OF_TRIALS):
                                     # the infection when an infected person 
                                     # is near a susceptible person
 
-    VACCINATED_PERCENT =  0.95      # Proportion of the population that
+    VACCINATED_PERCENT =  0.30      # Proportion of the population that
                                     # starts as immune (vaccinated)
 
     VACCINE_EFFECTIVENESS = 0.97    # Vaccine effectiveness 
